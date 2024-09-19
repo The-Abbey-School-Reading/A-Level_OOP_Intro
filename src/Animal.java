@@ -9,7 +9,7 @@ public class Animal {
         this.noOfLegs = number;
         this.noise = sound;
 
-        System.out.printf("Animal object created for %s. This animal has %d legs. It goes %s!", this.name, this.noOfLegs, this.noise);
+        System.out.printf("Animal object created for %s. This animal has %d legs. It goes %s!\n", this.name, this.noOfLegs, this.noise);
 
     }
 }
